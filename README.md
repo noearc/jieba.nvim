@@ -28,7 +28,7 @@
 [![github/repo-size](https://shields.io/github/repo-size/neo451/jieba.nvim)](https://github.com/neo451/jieba.nvim)
 [![github/v](https://shields.io/github/v/release/neo451/jieba.nvim)](https://github.com/neo451/jieba.nvim)
 
-[![luarocks](https://img.shields.io/luarocks/v/freed-wu/jieba.nvim)](https://luarocks.org/modules/freed-wu/jieba.nvim)
+[![luarocks](https://img.shields.io/luarocks/v/freed-wu/cppjieba)](https://luarocks.org/modules/freed-wu/cppjieba)
 
 ![screencast](https://github.com/user-attachments/assets/bc133f6f-a11c-4013-9493-34f2347983f8)
 
